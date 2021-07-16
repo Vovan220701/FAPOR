@@ -216,3 +216,15 @@ footer .btn_soc i:hover{
     padding-top: 23px;
     margin-right: 20px;
 }
+.ddd ul li a {
+    border: solid 3px #ffffff;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+    background-color: #2b2f35;
+    transition: 0.5s;
+}
+.ddd ul li a:hover{
+    background-color: red;
+    color: black;
+}
