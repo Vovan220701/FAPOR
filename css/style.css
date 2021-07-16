@@ -224,3 +224,7 @@ footer .btn_soc i:hover{
     background-color: #2b2f35;
     transition: 0.5s;
 }
+.ddd ul li a:hover{
+    background-color: red;
+    color: black;
+}
