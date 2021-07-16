@@ -204,3 +204,10 @@ footer .btn_soc i:hover{
     border: solid 12px #24282f;
     padding: 0 20px;
 }
+.btn_1{
+    padding: 27px;
+    margin: 27px;
+    text-align: center;
+    background-color: black;
+    border-radius: 25%;
+}
