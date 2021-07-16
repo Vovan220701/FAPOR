@@ -196,4 +196,7 @@ footer .btn_soc:hover{
 footer .btn_soc i:hover{
     color: white;
 }
-
+.ddd{
+    padding-top: 20px;
+    background-color: #ae9c60;
+}
